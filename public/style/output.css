@@ -34,7 +34,7 @@
 6. Use the user's configured `sans` font-variation-settings by default.
 */
 
-@import "/public/style/output.css";
+@import "/src/input.css";
 
 html {
   line-height: 1.5;
